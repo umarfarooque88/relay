@@ -9,7 +9,8 @@
   <a href="https://github.com/umarfarooque88/relay/releases/latest"><b>Download Relay for macOS</b></a>
 </p>
 
-<img src="docs/screenshots/dock.png" alt="The Relay bar showing memory pressure at the right-hand end of the macOS Dock, next to the Trash">
+<img src="docs/screenshots/dock-dark.png" alt="The Relay bar showing memory pressure at the right-hand end of a dark macOS Dock, next to the Trash">
+<img src="docs/screenshots/dock-light.png" alt="The Relay bar showing memory pressure at the right-hand end of a light macOS Dock, next to the Trash">
 
 Relay puts a Liquid Glass bar in your Dock that shows memory pressure as a number and a running graph. Click the bar to open the full readout above it, with the same breakdown as Activity Monitor's memory footer. Relay has no window and no Dock icon of its own; the bar is all there is.
 
